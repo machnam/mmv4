@@ -1472,7 +1472,7 @@ label[for="product-select-option-2"] { display: none; }
 }
 .swatch .swatch-element:not(.color) label.sd:before {background: transparent;border-color: #000;}
 .swatch .swatch-element:not(.color) label.sd:after {display: block;}
-.crossed-out {position: absolute;left: 0;top: 0;width: 100%;height: 100%;display: none;}
+.crossed-out {position: absolute;left: 0;top: 0;width: 100%;height: auto;display: none;}
 .swatch .swatch-element:not(.color).soldout label {cursor: not-allowed;opacity: 0.4;filter: alpha(opacity=40);pointer-events: none;}
 .swatch .swatch-element:not(.color).soldout img{display: block;}
 /* ------------------- Setting varian màu sắc -------------------- */
